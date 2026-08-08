@@ -5,5 +5,4 @@ __pycache__/
 # API key file — never commit secrets
 API
 
-# Local run artifacts
-audit_log.jsonl
+
