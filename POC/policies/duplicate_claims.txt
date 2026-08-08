@@ -1,0 +1,10 @@
+CMS Claims Processing Manual (simplified excerpt) - Duplicate Claims
+
+A claim is considered a duplicate if it matches a previously submitted claim
+on provider identifier, patient identifiers, procedure code, service date,
+and billed amount. Duplicate claims must be denied or flagged for provider
+follow-up. Only one payment is permitted per unique service rendered.
+Providers who repeatedly submit duplicate claims may be referred for audit.
+For example, submitting the same office visit for the same patient and
+provider on the same date and for the same billed amount a second time is a
+duplicate submission and must be flagged.

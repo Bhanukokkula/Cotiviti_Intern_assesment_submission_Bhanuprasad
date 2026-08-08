@@ -1,0 +1,10 @@
+CMS Program Integrity Manual (simplified excerpt) - Coding Accuracy and Upcoding
+
+Providers must bill the CPT or HCPCS code that most accurately reflects the
+level of service actually performed and documented. Selecting a
+higher-complexity evaluation and management code than is supported by the
+patient's diagnosis and clinical documentation, known as upcoding, is
+prohibited. Claims suspected of upcoding must be flagged for review and may
+result in claim denial, recoupment, and provider audit. For example, billing
+a high-complexity office visit code when the diagnosis reflects only a
+routine, low-complexity examination is a common upcoding pattern.

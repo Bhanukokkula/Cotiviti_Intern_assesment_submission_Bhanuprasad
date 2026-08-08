@@ -1,0 +1,12 @@
+CMS Medical Necessity and Unit Limits (simplified excerpt)
+
+Billed units must reflect the medically reasonable and necessary quantity
+for the procedure performed. Units billed far in excess of standard clinical
+guidelines require additional documentation and may be denied as not
+medically necessary. The procedure code billed must also be clinically
+consistent with the patient's age, sex, and diagnosis; implausible
+combinations of procedure code, diagnosis, and patient demographics must be
+flagged for review before payment. For example, billing twenty or more
+units of a joint injection procedure that is typically performed once
+exceeds reasonable and necessary limits. Likewise, billing an obstetric
+delivery procedure for a pediatric patient is not clinically plausible.

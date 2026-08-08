@@ -1,0 +1,13 @@
+claim_id,provider_id,patient_age,cpt_code,diagnosis_code,units,amount,date,planted_issue
+C001,PROV100,45,99213,I10,1,125.00,2026-01-05,clean
+C002,PROV101,62,80053,E11.9,1,45.00,2026-01-06,clean
+C003,PROV102,34,71046,J06.9,1,95.00,2026-01-07,clean_borderline: chest x-ray for URI - deliberately ambiguous
+C004,PROV100,55,97110,M54.5,2,80.00,2026-01-08,clean
+C005,PROV103,29,90686,Z23,1,25.00,2026-01-09,clean
+C006,PROV101,71,45378,Z12.11,1,850.00,2026-01-10,clean
+C007,PROV104,50,73721,M25.561,1,400.00,2026-01-11,clean
+C008,PROV102,38,99214,E11.65,1,150.00,2026-01-12,clean
+C009,PROV105,40,99215,Z00.00,1,250.00,2026-01-13,upcoding: high-complexity E/M code billed for a routine annual exam
+C010,PROV100,45,99213,I10,1,125.00,2026-01-05,duplicate: exact duplicate of claim C001 (same provider, patient, cpt, diagnosis, date, amount)
+C011,PROV103,60,20610,M25.561,25,2500.00,2026-01-14,excessive_units: 25 units billed for a joint injection normally billed as 1 unit
+C012,PROV106,8,59400,S93.401A,1,1800.00,2026-01-15,implausible_combo: obstetric delivery code billed for an 8-year-old patient
